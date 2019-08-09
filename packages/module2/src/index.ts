@@ -1,0 +1,1 @@
+export { default as dada3 } from './foo3';

@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"jsx": "react",
+		"experimentalDecorators": true,
+		"declaration": true,
+		"declarationDir": "./dist",
+		"sourceMap": true
+	},
+	"path": {
+		"@build-test/*": ["packages/*/src"],
+	}
+}

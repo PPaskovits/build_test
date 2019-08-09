@@ -1,0 +1,9 @@
+{
+  "name": "@build-test/module2",
+  "main": "lib/module2.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "short-uuid": "^3.1.1",
+    "@build-test/module1" : "^0.0.1"
+  }
+}

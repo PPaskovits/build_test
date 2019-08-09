@@ -1,0 +1,10 @@
+{
+  "name": "client",
+  "main": "lib/client.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "@build-test/module1" : "^0.0.1",
+    "@build-test/module2" : "^0.0.1"
+  },
+  "standalone":true
+}
